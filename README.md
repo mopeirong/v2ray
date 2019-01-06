@@ -6,8 +6,11 @@
 强烈推荐使用 搬瓦工VPS，稳定，快速，针对中国线路专门优化，完全无须担心跑路，服务好，30天退款保证。
 在这里可以找到 搬瓦工 VPS 套餐大全 ，优惠码在这里： 搬瓦工 VPS 优惠码
 使用 root 用户输入下面命令安装或卸载
+
 1.2.切换到root角色
+
 sudo -i 
+
 bash <(curl -s -L https://233yes.com/v2ray.sh)
 
 如果提示 curl: command not found ，那是因为你的 VPS 没装 Curl
